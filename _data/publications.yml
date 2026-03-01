@@ -1,0 +1,101 @@
+main:
+
+  - title: "MMGait: Towards Multi-Modal Gait Recognition"
+    authors: <strong>Chenye Wang</strong> et al.
+    conference_short: CVPR
+    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
+    # pdf:
+    # code:
+    # bibtex:
+    # image:
+
+  - title: "GaitSnippet: Gait Recognition Beyond Unordered Sets and Ordered Sequences"
+    authors: <strong>Chenye Wang</strong> et al.
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    # pdf:
+    # code:
+    # bibtex:
+    # image:
+
+  - title: "DiffusionGait: A Unified Generative-Discriminative Gait Framework"
+    authors: <strong>Chenye Wang</strong> et al.
+    conference_short: ECCV
+    conference: European Conference on Computer Vision <strong>(ECCV)</strong>, 2026 (under review).
+    notes: Under review
+    # pdf:
+    # code:
+    # bibtex:
+    # image:
+
+  - title: "RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition"
+    authors: <strong>Chenye Wang</strong>, Saihui Hou, Aoqi Li, Qingyuan Cai, Yongzhen Huang
+    conference_short: AAAI
+    conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
+    pdf: https://ojs.aaai.org/index.php/AAAI/article/view/32817
+    bibtex: https://andyen512.github.io/bibtex/ragar.txt
+    image: ./images/ragar.png
+    notes: Oral, Top 4.6%
+
+  - title: "GaitAsset: In Defense of Regarding Gait As a Set"
+    authors: <strong>Chenye Wang</strong> et al.
+    conference_short: TIFS
+    conference: IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2025.
+    # pdf:
+    # code:
+    # bibtex:
+    # image:
+
+  - title: "Query-Free Black-Box Universal Adversarial Attacks on Gait Recognition"
+    authors: <strong>Chenye Wang</strong> et al.
+    conference_short: IJCV
+    conference: International Journal of Computer Vision <strong>(IJCV)</strong>, under review.
+    notes: Under review
+    # pdf:
+    # code:
+    # bibtex:
+    # image:
+
+  - title: "AerialGait: Bridging Aerial and Ground Views for Gait Recognition"
+    authors: Aoqi Li, Saihui Hou, <strong>Chenye Wang</strong>, Qingyuan Cai, Yongzhen Huang
+    conference_short: ACM MM
+    conference: Proceedings of the 32nd ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
+    pdf: https://dl.acm.org/doi/abs/10.1145/3664647.3681002
+    bibtex: https://andyen512.github.io/bibtex/aerialgait.txt
+    image: ./images/AerialGait.png
+
+  - title: "Human Identification at a Distance: Challenges, Methods and Results on the Competition HID 2023"
+    authors: <strong>Chenye Wang</strong> et al.
+    conference_short: IJCB
+    conference: IEEE International Joint Conference on Biometrics <strong>(IJCB)</strong>, 2023.
+    # pdf:
+    # code:
+    # bibtex:
+    # image:
+
+  - title: "Contrmix: Progressive Mixed Contrastive Learning for Semi-Supervised Medical Image Segmentation"
+    authors: <strong>Chenye Wang</strong> et al.
+    conference_short: ICASSP
+    conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2023.
+    # pdf:
+    # code:
+    # bibtex:
+    # image:
+
+  - title: "DriverRWH: Discovering Cancer Driver Genes by Random Walk on a Gene Mutation Hypergraph"
+    authors: <strong>Chenye Wang</strong> et al.
+    conference_short: BMC Bioinformatics
+    conference: BMC Bioinformatics, 2022. <strong>(JCR Q1)</strong>
+    # pdf:
+    # code:
+    # bibtex:
+    # image:
+
+  - title: "A Novel Hypergraph Model for Identifying and Prioritizing Personalized Drivers in Cancer"
+    authors: <strong>Chenye Wang</strong> et al.
+    conference_short: PLOS CB
+    conference: PLOS Computational Biology, 2024. <strong>(JCR Q1)</strong>
+    # pdf:
+    # code:
+    # bibtex:
+    # image:
