@@ -4,26 +4,22 @@ main:
     authors: "<span style='color:#1e90ff'><strong>Chenye Wang</strong></span>, Qingyuan Cai, Saihui Hou, Aoqi Li, Yongzhen Huang."
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
     pdf: https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_MMGait_Towards_Multi-Modal_Gait_Recognition_CVPR_2026_paper.pdf
-    image: ./images/MMGait.png
 
   - title: "RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition"
     authors: "<span style='color:#1e90ff'><strong>Chenye Wang</strong></span>, Saihui Hou, Aoqi Li, Qingyuan Cai, Yongzhen Huang."
     conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/32817
-    image: ./images/ragar.png
     notes: Oral, Top 4.6%
 
   - title: "DriverRWH: Discovering Cancer Driver Genes by Random Walk on a Gene Mutation Hypergraph"
     authors: "<span style='color:#1e90ff'><strong>Chenye Wang</strong></span>, Junhan Shi, Jiansheng Cai, Yusen Zhang, Xiaoqi Zheng, Naiqian Zhang."
     conference: BMC Bioinformatics, 2022.
     pdf: https://link.springer.com/article/10.1186/s12859-022-04788-7
-    image: ./images/BMCBioinformatics.png
 
   - title: "GaitSnippet: Gait Recognition Beyond Unordered Sets and Ordered Sequences"
     authors: "Saihui Hou*, <span style='color:#1e90ff'><strong>Chenye Wang</strong></span>, Wenpeng Lang, Zhengxiang Lan, Yongzhen Huang. *Mentor"
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://arxiv.org/abs/2508.07782
-    image: ./images/GaitSnippet.png
 
   - title: "GaitAsset: In Defense of Regarding Gait As a Set"
     authors: "Saihui Hou*, <span style='color:#1e90ff'><strong>Chenye Wang</strong></span>, Aoqi Li, Jilong Wang, Liang Wang, Yongzhen Huang. *Mentor"
@@ -34,23 +30,19 @@ main:
     authors: "Aoqi Li, Saihui Hou, <span style='color:#1e90ff'><strong>Chenye Wang</strong></span>, Qingyuan Cai, Yongzhen Huang"
     conference: Proceedings of the 32nd ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
     pdf: https://dl.acm.org/doi/abs/10.1145/3664647.3681002
-    image: ./images/AerialGait.png
 
   - title: "Human Identification at a Distance: Challenges, Methods and Results on the Competition HID 2023"
     authors: "Shiqi Yu, <span style='color:#1e90ff'><strong>Chenye Wang</strong></span> et al."
     conference: IEEE International Joint Conference on Biometrics <strong>(IJCB)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10448952/
-    image: ./images/IJCB.png
 
   - title: "Contrmix: Progressive Mixed Contrastive Learning for Semi-Supervised Medical Image Segmentation"
     authors: "Meisheng Zhang, <span style='color:#1e90ff'><strong>Chenye Wang</strong></span>, Wenxuan Zou, Xingqun Qi, Muyi Sun, Wanting Zhou."
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10447013
-    image: ./images/ICASSP.png
 
 
   - title: "A Novel Hypergraph Model for Identifying and Prioritizing Personalized Drivers in Cancer"
     authors: "Naiqian Zhang, Fubin Ma, Dong Guo, Yuxuan Pang, <span style='color:#1e90ff'><strong>Chenye Wang</strong></span>, Yusen Zhang, Xiaoqi Zheng, Mingyi Wang."
     conference: PLOS Computational Biology, 2024.
     pdf: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012068
-    image: ./images/PLOSComputationalBiology.png

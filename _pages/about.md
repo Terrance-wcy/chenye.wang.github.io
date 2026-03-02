@@ -19,15 +19,14 @@ redirect_from:
 
 👋 Hello, I am **Chenye Wang**.
 
-I am a final-year master’s student at Beijing Normal University, advised by [Prof. Yongzhen Huang](https://scholar.google.com/citations?user=OH7-k7oAAAAJ&hl=en) and [Prof. Saihui Hou](https://scholar.google.com/citations?user=6gnHaLcAAAAJ&hl=en&oi=ao). I received my bachelor’s degree from Shandong University in June 2023. Recently, I’m interested in Vision-Language-Action Model.
-
+I am a final-year master’s student at Beijing Normal University, advised by [Prof. Yongzhen Huang](https://scholar.google.com/citations?user=OH7-k7oAAAAJ&hl=en) and [Prof. Saihui Hou](https://scholar.google.com/citations?user=6gnHaLcAAAAJ&hl=en&oi=ao). I received my bachelor’s degree from Shandong University in June 2023. My research interests lie in computer vision and multimodal learning, with a recent focus on Vision-Language-Action (VLA) models.
 
 
 <span class='anchor' id='research'></span>
 
 # 🔬 Research Interests
 - **Human-centered Computer Vision**: gait recognition and action recognition in unconstrained surveillance and UAV-view scenarios.
-- **Multi-modal Representation Learning**: vision-language pre-training and cross-modal alignment (image–text), as well as multi-sensor retrieval(e.g., camera–LiDAR) for robust representation learning.
+- **Multi-modal Representation Learning**: vision-language pre-training and cross-modal alignment (image–text), as well as multi-sensor retrieval.
 - **Label-efficient Learning**: semi-supervised, weakly-supervised and self-supervised learning for large-scale vision tasks.
 
 <span class='anchor' id='news'></span>
@@ -64,7 +63,7 @@ I am a final-year master’s student at Beijing Normal University, advised by [P
 </div>
 {% endfor %}
 
-<span class='anchor' id='services'></span>
+
 
 <span class='anchor' id='honors'></span>
 
@@ -74,7 +73,7 @@ I am a final-year master’s student at Beijing Normal University, advised by [P
 - **Outstanding Graduate**, Shandong University, May 2023
 - **1st Place**, The 4th International Competition on Human Identification at a Distance, Apr 2023
 
-
+<span class='anchor' id='services'></span>
 # 🤝 Services
 #### Academic Services
 - Reviewer for IEEE TIFS, PRCV, ICIG

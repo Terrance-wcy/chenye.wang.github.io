@@ -9,5 +9,8 @@ main:
   - title: "Publications"
     url: "#publications"
 
+  - title: "Honors"
+    url: "#honors"
+
   - title: "Services"
     url: "#services"
