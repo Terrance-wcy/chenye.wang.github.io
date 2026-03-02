@@ -19,19 +19,7 @@ redirect_from:
 
 👋 Hello, I am **Chenye Wang**.
 
-I am an M.E. student in Intelligence Science and Technology at Beijing Normal University, advised by Prof. Yongzhen Huang and Assoc. Prof. Saihui Hou. My research mainly focuses on gait recognition, biometrics, and human-centered computer vision.
-
-<span class='anchor' id='education'></span>
-
-# 🎓 Education
-- **Beijing Normal University**, M.E. in Intelligence Science and Technology, Sept 2023 – Jun 2026  
-  - GPA: 3.7/4.0  
-  - Mentors: Prof. Yongzhen Huang, Assoc. Prof. Saihui Hou  
-  - Coursework: Deep Learning, Machine Learning, Information Theory
-- **Shandong University**, B.S. in Statistics, Sept 2019 – Jun 2023  
-  - Selected for the Data Science and Artificial Intelligence Elite Program  
-  - GPA: 89.52/100  
-  - Coursework: Mathematical Analysis, Advanced Algebra, Probability Theory
+I am a final-year master’s student at Beijing Normal University, advised by [Prof. Yongzhen Huang](https://scholar.google.com/citations?user=OH7-k7oAAAAJ&hl=en) and [Prof. Saihui Hou](https://scholar.google.com/citations?user=6gnHaLcAAAAJ&hl=en&oi=ao). I received my bachelor’s degree from Shandong University in June 2023. My research mainly focuses on Human-centered Vision Task, Multi-modal Representation Learning and Label-efficient Learning.
 
 <span class='anchor' id='research'></span>
 
@@ -44,11 +32,12 @@ I am an M.E. student in Intelligence Science and Technology at Beijing Normal Un
 <span class='anchor' id='news'></span>
 
 # 🔥 News
-- **[Feb. 2026]** 🎉 One paper accepted by CVPR 2026 (MMGait: Towards Multi-Modal Gait Recognition).
-- **[Feb. 2026]** 🎉 One paper accepted by ICLR 2026 (GaitSnippet: Gait Recognition Beyond Unordered Sets and Ordered Sequences).
-- **[Jan. 2025]** 🎉 One paper accepted by AAAI 2025 (RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition, Oral).
-- **[Oct. 2024]** 🎉 One paper accepted by ACM MM 2024 (AerialGait: Bridging Aerial and Ground Views for Gait Recognition).
-- **[2022–2024]** 🎉 Multiple journal papers on hypergraph modeling and bioinformatics (BMC Bioinformatics, PLOS Computational Biology).
+- **[Feb. 2026]** 🎉 One paper accepted by CVPR 2026.
+- **[Jan. 2026]** 🎉 One paper accepted by ICLR 2026.
+- **[Nov. 2025]** 🎉 One paper accepted by IEEE TIFS.
+- **[Jan. 2025]** 🎉 One paper accepted by AAAI 2025 and selected for oral presentation (Top 4.6%).
+- **[Jul. 2024]** 🎉 One paper accepted by ACM MM 2024.
+- **[2022–2023]** 🎉🎉 Multiple papers on hypergraph modeling and bioinformatics.
 
 <span class='anchor' id='publications'></span>
 
