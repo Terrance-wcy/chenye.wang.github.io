@@ -15,7 +15,7 @@ main:
 
   - title: "DriverRWH: Discovering Cancer Driver Genes by Random Walk on a Gene Mutation Hypergraph"
     authors: "<span style='color:#1e90ff'><strong>Chenye Wang</strong></span>, Junhan Shi, Jiansheng Cai, Yusen Zhang, Xiaoqi Zheng, Naiqian Zhang."
-    conference: BMC Bioinformatics, 2022. <strong>(JCR Q1)</strong>
+    conference: BMC Bioinformatics, 2022.
     pdf: https://link.springer.com/article/10.1186/s12859-022-04788-7
     image: ./images/BMCBioinformatics.png
 
@@ -51,6 +51,6 @@ main:
 
   - title: "A Novel Hypergraph Model for Identifying and Prioritizing Personalized Drivers in Cancer"
     authors: "Naiqian Zhang, Fubin Ma, Dong Guo, Yuxuan Pang, <span style='color:#1e90ff'><strong>Chenye Wang</strong></span>, Yusen Zhang, Xiaoqi Zheng, Mingyi Wang."
-    conference: PLOS Computational Biology, 2024. <strong>(JCR Q1)</strong>
+    conference: PLOS Computational Biology, 2024.
     pdf: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012068
     image: ./images/PLOSComputationalBiology.png

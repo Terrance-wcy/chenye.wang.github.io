@@ -69,20 +69,11 @@ I am a final-year master’s student at Beijing Normal University, advised by [P
 <span class='anchor' id='honors'></span>
 
 # 🏅 Honors & Awards
-<!-- - **Graduate Academic Scholarship**, Beijing Normal University, Dec 2025 -->
 - **Xiaomi Scholarship**, Dec 2025
 - **Huawei Scholarship**, May 2025
-<!-- - **Graduate Academic Scholarship**, Beijing Normal University, Dec 2024 -->
 - **Outstanding Graduate**, Shandong University, May 2023
 - **1st Place**, The 4th International Competition on Human Identification at a Distance, Apr 2023
-<!-- - **Excellent Student**, School of Mathematics and Statistics, Shandong University, Nov 2022 -->
-<!-- - **First Class**, Shandong University Special Talent Scholarship, Dec 2021
-- **Academic Excellence Scholarship**, Shandong University, Dec 2021
-- **Second Class**, National Undergraduate Electronic Design Contest (Shandong Province), Dec 2021
-- **Second Prize**, 18th May Day Mathematical Modeling Competition, Jun 2021
-- **First Prize**, Undergraduate Research Training Program, Shandong University, Jun 2021
-- **First Prize**, Lanqiao Cup (Python Track, Shandong Province), May 2021
-- **Academic Excellence Scholarship**, Shandong University, Dec 2020 -->
+
 
 # 🤝 Services
 #### Academic Services
