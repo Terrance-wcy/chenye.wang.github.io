@@ -19,14 +19,16 @@ redirect_from:
 
 👋 Hello, I am **Chenye Wang**.
 
-I am a final-year master’s student at Beijing Normal University, advised by [Prof. Yongzhen Huang](https://scholar.google.com/citations?user=OH7-k7oAAAAJ&hl=en) and [Prof. Saihui Hou](https://scholar.google.com/citations?user=6gnHaLcAAAAJ&hl=en&oi=ao). I received my bachelor’s degree from Shandong University in June 2023. My research mainly focuses on Human-centered Vision Task, Multi-modal Representation Learning and Label-efficient Learning.
+I am a final-year master’s student at Beijing Normal University, advised by [Prof. Yongzhen Huang](https://scholar.google.com/citations?user=OH7-k7oAAAAJ&hl=en) and [Prof. Saihui Hou](https://scholar.google.com/citations?user=6gnHaLcAAAAJ&hl=en&oi=ao). I received my bachelor’s degree from Shandong University in June 2023. Recently, I’m interested in Vision-Language-Action Model.
+
+
 
 <span class='anchor' id='research'></span>
 
 # 🔬 Research Interests
-- **Human-centered Computer Vision**
-- **Multi-modal Representation Learning**
-- **Label-efficient Learning**
+- **Human-centered Computer Vision**: gait recognition and action recognition in unconstrained surveillance and UAV-view scenarios.
+- **Multi-modal Representation Learning**: vision-language pre-training and cross-modal alignment (image–text), as well as multi-sensor retrieval(e.g., camera–LiDAR) for robust representation learning.
+- **Label-efficient Learning**: semi-supervised, weakly-supervised and self-supervised learning for large-scale vision tasks.
 
 <span class='anchor' id='news'></span>
 
