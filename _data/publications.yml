@@ -1,82 +1,54 @@
 main:
-
   - title: "MMGait: Towards Multi-Modal Gait Recognition"
     authors: <strong>Chenye Wang</strong>, Qingyuan Cai, Saihui Hou, Aoqi Li, Yongzhen Huang.
-    # conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2026.
     pdf: https://openaccess.thecvf.com/content/CVPR2026/papers/Wang_MMGait_Towards_Multi-Modal_Gait_Recognition_CVPR_2026_paper.pdf
-    # code:
-    # bibtex:
     image: ./images/MMGait.png
 
-  - title: "GaitSnippet: Gait Recognition Beyond Unordered Sets and Ordered Sequences"
-    authors: Saihui Hou, <strong>Chenye Wang</strong>, Wenpeng Lang, Zhengxiang Lan, Yongzhen Huang.
-    # conference_short: ICLR
-    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
-    pdf: https://arxiv.org/abs/2508.07782
-    # code:
-    # bibtex:
-    image: ./images/GaitSnippet.png
-
-
   - title: "RA-GAR: A Richly Annotated Benchmark for Gait Attribute Recognition"
-    authors: <strong>Chenye Wang</strong>, Saihui Hou, Aoqi Li, Qingyuan Cai, Yongzhen Huang.
-    # conference_short: AAAI
+    authors: <strong>Chenye Wang</st    # conference_short: AAAI
     conference: Proceedings of the AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2025.
     pdf: https://ojs.aaai.org/index.php/AAAI/article/view/32817
-    # bibtex: https://andyen512.github.io/bibtex/ragar.txt
     image: ./images/ragar.png
     notes: Oral, Top 4.6%
 
+  - title: "DriverRWH: Discovering Cancer Driver Genes by Random Walk on a Gene Mutation Hypergraph"
+    authors: <strong>Chenye Wang</strong>, Junhan Shi, Jiansheng Cai, Yusen Zhang, Xiaoqi Zheng, Naiqian Zhang.
+    conference: BMC Bioinformatics, 2022. <strong>(JCR Q1)</strong>
+    pdf: https://link.springer.com/article/10.1186/s12859-022-04788-7
+    image: ./images/BMCBioinformatics.png
+
+  - title: "GaitSnippet: Gait Recognition Beyond Unordered Sets and Ordered Sequences"
+    authors: Saihui Hou, <strong>Chenye Wang</strong>, Wenpeng Lang, Zhengxiang Lan, Yongzhen Huang.
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    pdf: https://arxiv.org/abs/2508.07782
+    image: ./images/GaitSnippet.png
+
   - title: "GaitAsset: In Defense of Regarding Gait As a Set"
     authors: Saihui Hou, <strong>Chenye Wang</strong>, Aoqi Li, Jilong Wang, Liang Wang, Yongzhen Huang.
-    # conference_short: TIFS
     conference: IEEE Transactions on Information Forensics and Security <strong>(TIFS)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/document/11236396
-    # code:
-    # bibtex:
-    # image:
 
   - title: "AerialGait: Bridging Aerial and Ground Views for Gait Recognition"
     authors: Aoqi Li, Saihui Hou, <strong>Chenye Wang</strong>, Qingyuan Cai, Yongzhen Huang
-    # conference_short: ACM MM
     conference: Proceedings of the 32nd ACM International Conference on Multimedia <strong>(ACM MM)</strong>, 2024.
     pdf: https://dl.acm.org/doi/abs/10.1145/3664647.3681002
-    # bibtex: https://andyen512.github.io/bibtex/aerialgait.txt
     image: ./images/AerialGait.png
 
   - title: "Human Identification at a Distance: Challenges, Methods and Results on the Competition HID 2023"
     authors: Shiqi Yu, <strong>Chenye Wang</strong> et al.
-    # conference_short: IJCB
     conference: IEEE International Joint Conference on Biometrics <strong>(IJCB)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10448952/
-    # code:
-    # bibtex:
     image: ./images/IJCB.png
 
   - title: "Contrmix: Progressive Mixed Contrastive Learning for Semi-Supervised Medical Image Segmentation"
     authors: Meisheng Zhang, <strong>Chenye Wang</strong>, Wenxuan Zou, Xingqun Qi, Muyi Sun, Wanting Zhou.
-    # conference_short: ICASSP
     conference: IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/abstract/document/10447013
-    # code:
-    # bibtex:
     image: ./images/ICASSP.png
-
-  - title: "DriverRWH: Discovering Cancer Driver Genes by Random Walk on a Gene Mutation Hypergraph"
-    authors: <strong>Chenye Wang</strong>, Junhan Shi, Jiansheng Cai, Yusen Zhang, Xiaoqi Zheng, Naiqian Zhang.
-    # conference_short: BMC Bioinformatics
-    conference: BMC Bioinformatics, 2022. <strong>(JCR Q1)</strong>
-    pdf: https://link.springer.com/article/10.1186/s12859-022-04788-7
-    # code:
-    # bibtex:
-    image: ./images/BMCBioinformatics.png
 
   - title: "A Novel Hypergraph Model for Identifying and Prioritizing Personalized Drivers in Cancer"
     authors: Naiqian Zhang, Fubin Ma, Dong Guo, Yuxuan Pang, <strong>Chenye Wang</strong>, Yusen Zhang, Xiaoqi Zheng, Mingyi Wang.
-    # conference_short: PCB
     conference: PLOS Computational Biology, 2024. <strong>(JCR Q1)</strong>
     pdf: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1012068
-    # code:
-    # bibtex:
     image: ./images/PLOSComputationalBiology.png
