@@ -5,7 +5,7 @@
 
 # Site Settings
 title: "Chenye Wang"
-description: "M.E. student in Intelligence Science and Technology, Beijing Normal University"
+description: ""
 repository: "chenye.wang/chenye.wang.github.io"
 google_scholar_stats_use_cdn: true
 
@@ -25,7 +25,7 @@ author:
   location: "Beijing, China"
   employer:
   pubmed:
-  googlescholar:
+  googlescholar: https://scholar.google.com/citations?user=hAU8j24AAAAJ&hl=en
   email: "chenye.wang@mail.bnu.edu.cn"
   researchgate:
   uri:
