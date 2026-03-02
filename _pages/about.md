@@ -44,18 +44,9 @@ I am a final-year master’s student at Beijing Normal University, advised by [P
 # 📚 Publications
 {% for link in site.data.publications.main %}
 <div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      {% if link.conference_short %}
-      <div class="badge">{{ link.conference_short }}</div>
-      {% endif %}
-      {% if link.image %}
-      <img src='{{ link.image }}' alt='{{ link.title }}' width="100%">
-      {% endif %}
-    </div>
-  </div>
-
   <div class='paper-box-text' markdown="1">
+{% if link.conference_short %}<div class="badge">{{ link.conference_short }}</div>{% endif %}
+
 **{{ link.title }}**
 
 {{ link.authors }}
